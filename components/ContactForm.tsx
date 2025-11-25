@@ -36,10 +36,10 @@ export default function ContactForm() {
           <div className="space-y-8">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-slate-900 mb-4">
-                Let's Connect
+                Let&apos;s Connect
               </h2>
               <p className="text-lg font-normal leading-relaxed text-slate-600">
-                Have questions about HotOrNot? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+                Have questions about HotOrNot? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
               </p>
             </div>
 
@@ -165,7 +165,7 @@ export default function ContactForm() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                   <p className="text-sm font-medium text-emerald-800">
-                    Thank you for reaching out! We'll get back to you within 24 hours.
+                    Thank you for reaching out! We&apos;ll get back to you within 24 hours.
                   </p>
                 </div>
               )}
@@ -186,3 +186,4 @@ export default function ContactForm() {
       </div>
     </section>
   );
+}
